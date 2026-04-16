@@ -1,2 +1,2 @@
 Tableau Public Dashboard:
-PASTE YOUR TABLEAU PUBLIC LINK HERE
+https://public.tableau.com/views/RetailSalesPerformanceDashboard20232026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
