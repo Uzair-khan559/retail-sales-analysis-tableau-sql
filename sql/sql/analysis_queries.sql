@@ -1,0 +1,1 @@
+-- SQL queries used to analyse retail sales performance
