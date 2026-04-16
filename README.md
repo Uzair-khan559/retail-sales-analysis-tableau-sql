@@ -41,7 +41,7 @@ The Tableau dashboard highlights:
 - Regional sales distribution
 
 📊 **Tableau Public Dashboard:**  
-(see link in the `dashboard/tableau_dashboard_link.txt` file)
+(images/dashboard_preview.png)
 
 ## Key Insights
 - Sales show clear seasonal variation across months, with strong upward trends towards the end of the year
