@@ -1,0 +1,2 @@
+-- Data cleaning queries for the Retail Sales Analysis project
+-- This file contains SQL used to prepare data for analysis and visualization
