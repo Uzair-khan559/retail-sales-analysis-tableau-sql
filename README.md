@@ -1,5 +1,5 @@
 # retail-sales-analysis-tableau-sql
-
+An end‑to‑end sales analytics project using SQL and Tableau for business insight generation
 
 ## Project Overview
 This project presents an end-to-end analysis of retail sales data to understand overall business performance, revenue trends, product contribution, and regional sales distribution.  
