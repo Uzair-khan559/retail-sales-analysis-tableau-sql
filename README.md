@@ -108,16 +108,9 @@ The Tableau dashboard highlights:
 - Top 10 Products by Revenue
 - Regional Sales Distribution
 
-### Dashboard Preview
-![Retail Sales Dashboard Preview](dashboard/dashboard_preview.png)
-
 ### Tableau Public Dashboard
-_Add your Tableau Public link here after publishing_
 
-Example:
-`https://public.tableau.com/views/your-dashboard-link`
-
----
+https://public.tableau.com/views/RetailSalesPerformanceDashboard20232026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Insights
 
